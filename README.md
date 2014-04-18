@@ -12,7 +12,7 @@ A Liferay Spring Portlet MVC project template using Maven.
 Usage
 -----
 ```bash
-$ git clone http://github.com/psvehla/liferay-spring-mvc-portlet.git
+$ git clone http://github.com/abeym/liferay-spring-mvc-portlet.git
 $ cd liferay-spring-mvc-portlet
 $ mvn package
 ```
